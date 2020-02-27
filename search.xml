@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <url>/2020/02/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>##Let her go</p>
+<p>Well you only need the light when it’s burning low<br>　　只有在朦胧黯淡时才念及灯火光亮<br>Only miss the sun when it starts to snow<br>　　只有在冰天雪地时才怀念阳光温暖<br>Only know you love her when you let her go<br>　　只有在已然放手后才始知那是真爱<br>Only know you’ve been high when you’re feeling low<br>　　只有在身处低谷时才遥想过去峥嵘<br>Only hate the road when you’re missing home<br>　　只有在乡愁涌动时才痛恨旅途遥远<br>Only know you love her when you let her go<br>　　只有在已然放手后才始知那是真爱<br>And you let her go<br>　　但你已放手让她走<br>Staring at the bottom of your glass<br>　　酒杯已空 醉然凝视<br>Hoping one day you’ll make a dream last<br>　　希望有一天可以永远沉醉于美梦<br>But dreams come slow and they go so fast<br>　　但你知道 梦来的温柔 而醒的残酷<br>You see her when you close your eyes<br>　　当你闭上双眼 你仿佛看到了她<br>Maybe one day you’ll understand why<br>　　也许终有一天你会领悟<br>Everything you touch surely dies<br>你是如何亲手毁掉了一段挚爱<br>But you only need the light when it’s burning low<br>　　但你只有在朦胧黯淡时才念及灯火光亮<br>Only miss the sun when it starts to snow<br>　　只有在冰天雪地时才怀念阳光温暖<br>Only know you love her when you let her go<br>　　只有在已然放手后才始知那是真爱<br>Only know you’ve been high when you’re feeling low<br>　　只有在身处低谷时才遥想过去峥嵘<br>Only hate the road when you’re missing home<br>　　只有在乡愁涌动时才痛恨旅途遥远<br>Only know you love her when you let her go<br>　　只有在已然放手后才始知那是真爱<br>Staring at the ceiling in the dark<br>　　繁星满天 你痴痴的望着天花板<br>Same old empty feeling in your heart<br>　　又是一个无比寂寞空虚的无眠夜<br>Cause love comes slow and it goes so fast<br>　　爱情来的温柔 去的残酷<br>Well you see her when you fall asleep<br>　　如今你只得在梦里与她相见<br>But never to touch and never to keep<br>可这梦脆弱的经不起触碰 经不起长久<br>‘Cause you loved her too much and you dive too deep<br>　　你爱她越深 你亦而陷的越深<br>Well you only need the light when it’s burning low<br>　　只有在朦胧黯淡时才念及灯火光亮<br>Only miss the sun when it starts to snow<br>　　只有在冰天雪地时才怀念阳光温暖<br>Only know you love her when you let her go<br>　　只有在已然放手后才始知那是真爱<br>Only know you’ve been high when you’re feeling low<br>只有在身处低谷时才遥想过去峥嵘<br>Only hate the road when you’re missing home<br>　　只有在乡愁涌动时才痛恨旅途遥远<br>Only know you love her when you let her go<br>　　只有在已然放手后才始知那是真爱<br>And you let her go<br>　　但你已放手让她走<br>And you let her go<br>　　但你已放手让她走<br>Well you let her go<br>　　而你已放手让她走</p>
+<hr>
+<p>##<br>    石松</p>
+<hr>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/02/26/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
